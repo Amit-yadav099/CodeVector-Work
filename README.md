@@ -14,7 +14,7 @@
 A backend application built with Node.js, Express, PostgreSQL (Neon), and React that allows users to browse a large product catalog (~200,000 products), filter by category, and paginate efficiently while maintaining consistency even when data changes during browsing.
 
 ## 🎯 Live Demo
-Live Application URL: https://resume-screener-ashy.vercel.app/
+Live Application URL: https://codevector-work.onrender.com/
 
 ##  Features
 
@@ -200,8 +200,7 @@ even if products are inserted or updated while the user is paging through result
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    git remote add origin https://github.com/Amit-yadav099/CodeVector-Work.git
+    git clone https://github.com/Amit-yadav099/CodeVector-Work.git
     ```
 
 2.  **Backend Setup:**
