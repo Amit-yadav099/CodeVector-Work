@@ -201,7 +201,7 @@ even if products are inserted or updated while the user is paging through result
 1.  **Clone the repository:**
     ```bash
     git clone <repository-url>
-     https://github.com/Amit-yadav099/Resume-Screener.git
+    git remote add origin https://github.com/Amit-yadav099/CodeVector-Work.git
     ```
 
 2.  **Backend Setup:**
